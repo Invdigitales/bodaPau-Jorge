@@ -22,6 +22,13 @@
   /*CUENTA REGRESIVA*/
   
   @media (max-width: 730px) {
+    img {
+      width: 100%;
+      margin-right: 50px;
+      box-shadow: 0px 3px 5px rgba(rgb(255, 255, 255), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
+   margin-top: 5%;
+    }
+
     .cuenta-regresiva {
       display: flex;
       text-align: center;
