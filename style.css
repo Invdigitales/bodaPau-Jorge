@@ -254,23 +254,91 @@ margin: 40px;
 
 
 
-
-
-
-
-
-  .iglesia{
-    width: 20%;
-    margin-left: 40%;
+  .click4{
+    padding: 1px 9px;
+    font-size: 22px;
+    font-weight: 1200;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: #4E684B;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+    cursor: pointer;
+    margin-left: 27%;
+    background-size: 120%;
+    margin-top: 10%;
+    font-family: "Montserrat", sans-serif;
+    background-size: 50%;
   }
- 
+
+  .click5{
+    padding: 1px 11px;
+    font-size: 22px;
+    font-weight: 1200;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: #4E684B;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+    cursor: pointer;
+    margin-left: 15%;
+    background-size: 120%;
+    margin-top: 15%;
+    font-family: "Montserrat", sans-serif;
+    background-size: 50%;
+  }
+
+  .click6{
+    padding: 1px 9px;
+    font-size: 22px;
+    font-weight: 1200;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: #4E684B;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+    cursor: pointer;
+    margin-left: 22%;
+    background-size: 120%;
+    margin-top: -10%;
+    font-family: "Montserrat", sans-serif;
+    background-size: 50%;
+  }
+
+.foto1{
+  width: 40%;
+  border-radius: 5%;
+  margin-left: 7%;
+  margin-top: 10%;
+}
+
+.foto2{
+  width: 40%;
+  border-radius: 5%;
+  margin-left: 53%;
+  margin-top: -63%;
+}
 
   
-  
-  .galeria{
-    width: 9%;
-  margin-left: 46%;
-  }
+.parrafo13{
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+     color: #7b7b7b;
+     margin-top: 30%;
+     
+}
+
+.parrafo14{
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+     color: #7b7b7b;
+     margin-top: 80%;
+}
+
+
+
  
   
  
