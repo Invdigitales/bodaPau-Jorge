@@ -62,8 +62,8 @@ margin-left: 68%;
 
   .parrafo1{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+       font-size: 17px;
        color: #7b7b7b;
       margin-top: 15%;
      
@@ -89,8 +89,8 @@ margin-left: 68%;
   }
   .parrafo2{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
        color: #7b7b7b;
        margin-top: 10%;
       
@@ -98,8 +98,8 @@ margin-left: 68%;
 
   .parrafo3{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
        color: #7b7b7b;
       margin-top: 10%;
      
@@ -107,64 +107,158 @@ margin-left: 68%;
 
   .parrafo4{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
        color: #7b7b7b;
       
      
   }
   .parrafo5{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+       font-size: 17px;
        color: #7b7b7b;
        margin-top: 10%; 
   }
   .parrafo6{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
        color: #7b7b7b;
        margin-top: 10%; 
   }
 
   .parrafo7{
     text-align: center;
-    font-family: "Covered By Your Grace", cursive;
-       font-size: 26px;
-       color: #7b7b7b;
+    font-family: "Montserrat", sans-serif;
+       font-size: 18px;
+       color: #4E684B;
        margin-top: 5%; 
+       font-weight: 600;
   }
+.parientes{
+  text-align: center;
+  font-family: "Rouge Script", cursiva;
+     font-size: 30px;
+   color:  #4E684B;
+  
+}
 
-  .pelota{
-    width: 20%;
-    margin-left: 40%;
-  }
-  .instagram{
-    width: 15%;
-    margin-left: 43%;
-  }
+.fecha{
+  width: 70%;
+  margin-left: 15%;
+  margin-top: -18%;
+}
+
+.parrafo8{
+  text-align: center;
+  font-family: "Rouge Script", cursiva;
+     font-size: 30px;
+   color:  #4E684B;
+  
+}
+.parrafo9{
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+     color: #7b7b7b;
+     margin-top: 10%; 
+}
 
 
- 
-
-  .click{
+  .click1{
     padding: 1px 9px;
     font-size: 22px;
     font-weight: 1200;
     border: none;
     color: rgb(255, 255, 255);
-    background-color: #94A592;
+    background-color: #4E684B;
     border-radius: 7px;
     box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
     cursor: pointer;
     margin-left: 34%;
     background-size: 120%;
     margin-top: 4%;
-    background-image: url(./imagenes/grises.gif);
+    font-family: "Montserrat", sans-serif;
     background-size: 50%;
-    font-family: "Alegreya", serif; 
   }
+
+  .parrafo10{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+       color: #7b7b7b;
+       margin-top: 10%; 
+  }
+
+  .click2{
+    padding: 1px 9px;
+    font-size: 22px;
+    font-weight: 1200;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: #4E684B;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+    cursor: pointer;
+    margin-left: 34%;
+    background-size: 120%;
+    margin-top: 4%;
+    font-family: "Montserrat", sans-serif;
+    background-size: 50%;
+  }
+  .parrafo11{
+    text-align: center;
+    font-family: "Rouge Script", cursiva;
+       font-size: 30px;
+     color:  #4E684B;
+     margin-top: 15%;
+    
+  }
+
+  .parrafo12{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+       color: #7b7b7b;
+       
+  }
+
+  .parrafoD{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+       color: #7b7b7b;
+    
+       
+  }
+  .card-body{
+margin: 40px;
+  }
+  .click3{
+    padding: 1px 9px;
+    font-size: 22px;
+    font-weight: 1200;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: #4E684B;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+    cursor: pointer;
+    margin-left: 40%;
+    background-size: 120%;
+    margin-top: 4%;
+    font-family: "Montserrat", sans-serif;
+    background-size: 50%;
+  }
+
+
+
+
+
+
+
+
   .iglesia{
     width: 20%;
     margin-left: 40%;
