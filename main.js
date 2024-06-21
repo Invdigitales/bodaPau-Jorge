@@ -69,10 +69,22 @@ boton.addEventListener("click", () => {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3151.003356993401!2d-57.63775632411361!3d-37.83680727196983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDUwJzEyLjUiUyA1N8KwMzgnMDYuNyJX!5e0!3m2!1ses!2sar!4v1717711547688!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3638.291980421212!2d-64.86864849999999!3d-24.231564599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941a58650bee16a5%3A0xf4629ae77d696953!2sParroquia%20San%20Pedro%20De%20R%C3%ADo%20Negro!5e0!3m2!1ses-419!2sar!4v1718997715225!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
     })
   });
 
+  function exito(){
+    Swal.fire({
+        title: '<strong>VER LA UBICACION<u></u></strong>',
+        icon: 'success',
+        html:
+          'INGRESÁ' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3638.2892452940055!2d-64.86707919999999!3d-24.231660299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941a58645575202d%3A0x7bee140aac7dbb91!2sSociedad%20Sirio%20Libanesa!5e0!3m2!1ses-419!2sar!4v1718997861774!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          'Podes ampliar el mapa',
+          
+          
+      })
+}
