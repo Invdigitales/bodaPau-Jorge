@@ -45,7 +45,7 @@
   }
   .cr-desc {
       color: rgb(125, 125, 125);
-      font-family: 'Sacramento', cursive;
+      font-family: "Montserrat", sans-serif;
       
   }
   .cr-block {
@@ -56,10 +56,29 @@
   }
   .segundo{
 width: 17%;
-margin-top: -29%;
-margin-left: 68%;
+margin-top: -30%;
+margin-left: 72%;
   }
+ 
 
+  
+    h5{
+    color: #4E684B;
+    font-size: 35px;
+    text-align: center;
+    margin-top: -15%;
+    font-family: "Rouge Script", cursiva;
+    
+    }
+    .audio{
+      width: 35%;
+      height: 20px;
+      margin-left: 32%;
+      background-color:  #ffffff;
+      color: #646464bd;
+      margin-top: -45%;
+      
+  }
   .parrafo1{
     text-align: center;
     font-family: "Montserrat", sans-serif;
@@ -269,6 +288,7 @@ margin: 40px;
     margin-top: 10%;
     font-family: "Montserrat", sans-serif;
     background-size: 50%;
+  text-decoration: none;
   }
 
   .click5{
@@ -286,6 +306,7 @@ margin: 40px;
     margin-top: 15%;
     font-family: "Montserrat", sans-serif;
     background-size: 50%;
+    text-decoration: none;
   }
 
   .click6{
@@ -303,6 +324,7 @@ margin: 40px;
     margin-top: -10%;
     font-family: "Montserrat", sans-serif;
     background-size: 50%;
+    text-decoration: none;
   }
 
 .foto1{
@@ -334,173 +356,58 @@ margin: 40px;
   font-family: "Montserrat", sans-serif;
   font-size: 17px;
      color: #7b7b7b;
-     margin-top: 80%;
+     margin-top: 30%;
+}
+
+.parrafo15{
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+     color: #7b7b7b;
+     margin-top: 30%;
+}
+
+.parrafo16{
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+     color: #7b7b7b;
+     margin-top: 30%;
+}
+.carousel{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 25%;
+  border-radius: 5%;
+}
+.laocho{
+  width: 50%;
+  margin-top: 95%;
+  margin-left: 25%;
 }
 
 
+.parrafo17{
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+     color: #7b7b7b;
+     margin-top: 50%;
+}
 
- 
   
- 
-
-  .mapa{
-    width: 80%;
-    height: 80%;
-    margin-left: 16%;
+.novios{
+  width:48%;
+  margin-left: 26%;
   margin-top: 5%;
+}
 
-  }
- 
-  .btn_btn-primary{
-    padding: 1px 9px;
-    font-size: 24px;
-    font-weight: 1200;
-    border: none;
-    color: rgb(255, 255, 255);
-    background-color: #6B928F;
-    border-radius: 7px;
-    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
-    cursor: pointer;
-    margin-left: 34%;
-    background-size: 120%;
-    margin-top: 4%;
-    background-image: url(./imagenes/grises.gif);
-    background-size: 50%;
-    font-family: 'Dancing Script', cursive;
-  }
-  
 
- .whatsap{
-  width: 40%;
-  margin-left: 30%;
- }
-.icono{
-  text-align: center;
-    font-family:'Times New Roman', Times, serif; 
-     font-size: 13px;
-     color:#6B928F;
-    
- }
- .icono3{
-  text-align: center;
-    font-family:'Times New Roman', Times, serif; 
-     font-size: 18px;
-     color:#6B928F;
-    
- }
- .icono2{
-  text-align: center;
-    font-family:'Times New Roman', Times, serif; 
-     font-size: 18px;
-     color:#6B928F;
-  
-
- }
-
- .card{
-margin: 14%;
- }
- .whatsap2{
-  width: 40%;
-  margin-left: 30%;
- }
- .estefi{
-  width: 33%;
-  margin-top: -50%;
-  margin-left: 10%;
- }
- .jere{
-  width: 33%;
-  margin-top: -50%;
-  margin-left: 10%;
- }
- .fondo4{
-  margin-top: -15%;
- }
  
 
- .arrow span {
-  margin-top: -5%;
-  display: block;
-  width: 14px;
-  height: 14px;
-  border-bottom: 5px solid rgb(179, 179, 179);
-  border-right: 5px solid rgb(182, 210, 181);
-  transform: rotate(45deg);
-margin-left: 48%;
-  animation: animate28797 2s infinite;
-}
-
-.arrow span:nth-child(2) {
-  animation-delay: -0.2s;
-}
-
-.arrow span:nth-child(3) {
-  animation-delay: -0.4s;
-}
-
-@keyframes animate28797 {
-  0% {
-    opacity: 0;
-    transform: rotate(45deg) translate(-20px, -20px);
-  }
-
-  50% {
-    opacity: 1;
-  }
-
-  100% {
-    opacity: 0;
-    transform: rotate(45deg) translate(20px, 20px);
-  }
-}
- .parrafo_deposito{
-  text-align: center;
-  font-family: "Rouge Script", cursiva;
-     font-size: 30px;
-     color: #7b7b7b;
-     margin-top: 15%;
-
- }
-.cajafiesta{
-  margin-top: -5%;
-}
-
-.btn_btn-primary2{
-  padding: 1px 9px;
-  font-size: 22px;
-  font-weight: 1200;
-  border: none;
-  color: rgb(255, 255, 255);
-  background-color: #94A592;
-  border-radius: 7px;
-  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
-  cursor: pointer;
-  margin-left: 37%;
-  background-size: 120%;
-  margin-top: 4%;
-  background-image: url(./imagenes/grises.gif);
-  background-size: 50%;
-  font-family: "Alegreya", serif; 
  
-}
-
-.parrafoimportante{
-  text-align: center;
-  font-family: "Rouge Script", cursiva;
-     font-size: 30px;
-     color: #7b7b7b;
-     margin-top: 15%;
-}
 
 
- .parrafo_esperamos{
-  text-align: center;
-    font-family: "Rouge Script", cursiva;
-       font-size: 30px;
-       color: #7b7b7b;
-       margin-top: 18%;
-  }
  
 
 
@@ -543,15 +450,8 @@ margin-top: -50%;
   margin-left: 19%;
 
 }
-.novios{
-  width:46%;
-  margin-left: 26%;
-}
-.gif-final {
-width: 6%;
-margin-top: -8%;
-margin-left: 48%;
-}
+
+
 
 }
  
